@@ -8,7 +8,7 @@
 
 ## 目录
 
-- [JavaScript开发规范](javascript.md)
+- [JavaScript开发规范](./javascript.md)
   - [前言](javascript.md#start)
   - [1. 类型和引用](javascript.md#types)  
   - [2. 对象](javascript.md#object)  
