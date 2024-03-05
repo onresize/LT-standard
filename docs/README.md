@@ -8,8 +8,8 @@
 
 ## 目录
 
-- [JavaScript开发规范](/javascript.md)
-  - [前言](javascript.md#start)
+- [JavaScript开发规范]
+  - [前言]
   - [1. 类型和引用](javascript.md#types)  
   - [2. 对象](javascript.md#object)  
   - [3. 数组](javascript.md#array)  
