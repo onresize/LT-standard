@@ -10,56 +10,56 @@
 
 - [JavaScript开发规范]
   - [前言]
-  - [1. 类型和引用](javascript.md#types)  
-  - [2. 对象](javascript.md#object)  
-  - [3. 数组](javascript.md#array)  
-  - [4. 解构](javascript.md#destructuring)  
-  - [5. Strings](javascript.md#strings)  
-  - [6. 函数](javascript.md#functions)  
-  - [7. 箭头函数](javascript.md#arrowFunctions)  
-  - [8. Class & Constructors](javascript.md#class)  
-  - [9. 模块](javascript.md#module)  
-  - [10. 属性和变量](javascript.md#properties)  
-  - [11. 比较运算符](javascript.md#comparison)  
-  - [12. 代码块](javascript.md#blocks)  
-  - [13. 注释](javascript.md#comments)  
-  - [14. 空格](javascript.md#whitespaces)  
-  - [15. 逗号](javascript.md#commas)  
-  - [16. 分号](javascript.md#semicolons)  
-  - [17. 类型转换](javascript.md#typeCasting)  
-  - [18. 命名规范](javascript.md#namingConventions)  
-  - [19. jQuery](javascript.md#jquery)  
+  - [1. 类型和引用]
+  - [2. 对象]
+  - [3. 数组]
+  - [4. 解构] 
+  - [5. Strings]
+  - [6. 函数]
+  - [7. 箭头函数]
+  - [8. Class & Constructors]
+  - [9. 模块]
+  - [10. 属性和变量]
+  - [11. 比较运算符]
+  - [12. 代码块]
+  - [13. 注释]
+  - [14. 空格]
+  - [15. 逗号]
+  - [16. 分号]
+  - [17. 类型转换]
+  - [18. 命名规范]
+  - [19. jQuery]
     
-- [CSS / Scss 开发规范](css.md)
-  - [前言](css.md#start)
-  - [CSS](css.md#css)
-      - [基础](css.md#common)
-      - [空格](css.md#space)
-      - [换行](css.md#enter)
-      - [属性的书写顺序](css.md#order)
-      - [值与单位](css.md#unit)
-      - [命名规则](css.md#name)
-      - [其他](css.md#others)
-  - [Scss](css.md#scss)
-      - [属性声明的排序](css.md#declare) 
-      - [变量](css.md#variable) 
-      - [Mixins](css.md#mixins)
-      - [避免使用扩展指令](css.md#extend)
-      - [避免嵌套层级过多](css.md#nesting)
+- [CSS / Scss 开发规范]
+  - [前言]
+  - [CSS]
+      - [基础]
+      - [空格]
+      - [换行]
+      - [属性的书写顺序]
+      - [值与单位]
+      - [命名规则]
+      - [其他]
+  - [Scss]
+      - [属性声明的排序]
+      - [变量]
+      - [Mixins]
+      - [避免使用扩展指令]
+      - [避免嵌套层级过多]
     
-- [Vue 项目开发规范](vue.md)
-  - [前言](css.md#start)
-  - [1. 组件命名规范](vue.md#naming)
-  - [2. Prop 定义规范](vue.md#prop)
-  - [3. Vue 中的书写顺序](vue.md#order)
-  - [4. Vue 通用规范](vue.md#common)
-  - [5. Vue Router 规范](vue.md#router)
-  - [6. Vue 项目目录规范](vue.md#contents)
+- [Vue 项目开发规范]
+  - [前言]
+  - [1. 组件命名规范]
+  - [2. Prop 定义规范]
+  - [3. Vue 中的书写顺序]
+  - [4. Vue 通用规范]
+  - [5. Vue Router 规范]
+  - [6. Vue 项目目录规范]
 
-- [项目的通用规范](common.md)
-    - [图片](common.md)
-        - [基本使用原则](common.md)
-        - [图片压缩](common.md)
+- [项目的通用规范]
+    - [图片]
+        - [基本使用原则]
+        - [图片压缩]
 
 ## License
 
